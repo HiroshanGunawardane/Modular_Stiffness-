@@ -4,7 +4,7 @@ Experimental data and analysis supporting “Modular Stiffness Modulation in 3D-
 This repository contains the experimental data and analysis supporting the paper "Modular Stiffness Modulation in 3D-Printed Soft Actuators for Adaptive Trajectory Control" by P.D.S.H. Gunawardane et al. The data provided here includes raw and processed results from experiments evaluating the performance of soft pneumatic actuators (SPAs) equipped with modular, press-fittable strain-limiting layers (SLLs). These experiments demonstrate how different SLL configurations affect actuator stiffness, motion trajectories, and practical applications such as robotic gripping and endoscopic imaging. The repository also includes scripts and analysis files used to process and visualize the results, enabling researchers to reproduce the findings and further explore adaptive trajectory control in soft robotics. This resource is intended to facilitate transparency, reproducibility, and further research in the field.
 
 ---
-#🧪 Description
+##🧪 Description
 The primary script, MainCode.m, processes experimental displacement data collected from soft pneumatic actuators made from:
 
 Dragon Skin Only
